@@ -1,13 +1,13 @@
 {
-    "version": "0.22.0",
+    "version": "0.23.0",
     "description": "免费开源的 Windows 快速搜索启动器：拼音秒搜文件、Word/Excel/PDF 全文搜索、剪贴板历史、任务栏搜索框、插件与 MCP 服务器。",
     "homepage": "https://github.com/LingCore/WinShun",
     "license": "MIT",
     "notes": "需要管理员权限才能启用键盘拦截、NTFS 索引等功能。数据存放在 persist\\winshun\\data。升级前请先退出 WinShun。",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/LingCore/WinShun/releases/download/v0.22.0/WinShun-0.22.0-x64-portable.zip",
-            "hash": "e09488a2873affc674fb2eb6dee69cb444a3391478490700d255c876586f7462"
+            "url": "https://github.com/LingCore/WinShun/releases/download/v0.23.0/WinShun-0.23.0-x64-portable.zip",
+            "hash": "28341b5ced8906c2d2b2b54b504350d18a7180429cb7414c379044c0849fd7bd"
         }
     },
     "extract_dir": "WinShun",
